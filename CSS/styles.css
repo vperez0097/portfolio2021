@@ -96,6 +96,14 @@ img:hover {
     
 }
 
+.work
+img:hover {
+    opacity: .5; 
+    transition: 1s; 
+   
+    
+}
+
 .wallows {
 display:inline-block;
 margin-left: auto;
